@@ -1,4 +1,4 @@
-package com.example.ewawenl.volumecontrol;
+package com.example.wangwl.volumecontrol;
 
 import android.content.Context;
 import android.media.AudioManager;
