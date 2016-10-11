@@ -5,4 +5,4 @@ Usually, it leads to factory mode after pressing power on button. Because "Power
 It is really a frustrated experience.
 In order to recover my phone from factory mode, I unscrew it and cut off the lines of volume control buttons.
 At the result, I can not control the volume by hardware.
-That's why I add this tiny codes to control the volume by software.
+That's why I add the tiny codes to control the volume by software.
